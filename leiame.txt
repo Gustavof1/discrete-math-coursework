@@ -1,0 +1,8 @@
+Sistema Operacional Windows 10 Pro
+Versão 20H2
+Compilação do SO 19042.1083
+
+Compilador GCC em MinGW (Minimalist GNU for Windows)
+Utilizado pela IDE CodeBlocks 20.3
+
+IDE e Compilador replit: https://replit.com/languages/c
